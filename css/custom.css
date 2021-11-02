@@ -26,7 +26,7 @@ a[aria-label="linkedin"]:hover {
   background-image: linear-gradient(transparent, transparent 4px, goldenrod 4px, goldenrod);
 }
 
-#header #nav ul a:hover {
+#header #nav ul a:hover :not(a[aria-label="Menu"]) :not(i) {
   background-image: linear-gradient(transparent, transparent 5px, goldenrod 5px, goldenrod);
   background-position: bottom;
   background-size: 100% 6px;
