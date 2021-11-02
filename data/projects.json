@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "name":"Rover",
+      "url":"https://github.com/im2nguyen/rover",
+      "desc":"Interactive Terraform state and configuration explorer."
+    },
+    {
+      "name":"Sympo Science",
+      "url":"http://sympo.io/",
+      "desc":"Instantsearch open access science article aggregator. Instantly search open access biology scientific articles across arxiv, biorxiv, and medrxiv."
+    },
+    {
+      "name":"AppMaker",
+      "url":"https://appjam.org/",
+      "desc":"AppJam AppMaker is a deployment of the [MIT AppInventor](https://appinventor.mit.edu/) application, customized with DreamsForSchool's branding and supplemental resources."
+    }
+  ]
+ }

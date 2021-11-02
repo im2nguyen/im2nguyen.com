@@ -1,0 +1,40 @@
+baseURL = 'http://im2nguyen.com/'
+languageCode = 'en-us'
+title = "Tu's Thoughts"
+theme = "cactus"
+copyright = "im2nguyen"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[params]
+  colortheme = "dark"
+  css = ["css/custom.css"]
+  description = "Hello! My name is Tu Nguyen, and I am a technical leader with a passion for technology and education. I currently help people [learn Terraform](https://learn.hashicorp.com/terraform) by building engaging, interactive tutorials. I also help advise [DreamsForSchools](https://www.dreamsforschools.org/) in designing computer science curriculums for elementary and middle school students across Southern California. \n\nPreviously, I've led development teams in startups, and built internal DevOps tools at Optum."
+  logo = "logo.png"
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/im2nguyen"
+
+[[params.social]]
+  name = "email"
+  link = "im2nguyen@gmail.com"
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/tu-nguyen-ba9398113/"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4

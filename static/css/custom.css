@@ -1,0 +1,34 @@
+#header #nav ul li {
+  border: none;
+}
+
+.content a.icon:hover {
+  color: goldenrod;
+}
+
+a[aria-label="linkedin"]:hover {
+  color: #0072b1 !important;
+}
+
+#header #nav ul a {
+  color: goldenrod;
+}
+
+.h1 {
+  color: goldenrod;
+}
+
+#about a:hover :not(.icon) :not(.fab) {
+  background-image: linear-gradient(transparent, transparent 4px, goldenrod 4px, goldenrod);
+}
+
+.project-item a:hover {
+  background-image: linear-gradient(transparent, transparent 4px, goldenrod 4px, goldenrod);
+}
+
+#header #nav ul a:hover {
+  background-image: linear-gradient(transparent, transparent 5px, goldenrod 5px, goldenrod);
+  background-position: bottom;
+  background-size: 100% 6px;
+  background-repeat: repeat-x;
+}
