@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/dos/Desktop/im2nguyen/im2nguyen.com",
+	"sourceRoot": "/Users/dos/Desktop/FOLDERS/im2nguyen.com",
 	"sources": [
 		"themes/cactus/assets/scss/style.scss",
 		"themes/cactus/assets/scss/_variables.scss",
