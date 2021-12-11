@@ -18,7 +18,11 @@ a[aria-label="linkedin"]:hover {
   color: goldenrod;
 }
 
-#about a:hover :not(.icon) :not(.fab) {
+h1 {
+  color: goldenrod;
+}
+
+.content a:hover:not(.icon):not(.fab) {
   background-image: linear-gradient(transparent, transparent 4px, goldenrod 4px, goldenrod);
 }
 
@@ -43,4 +47,40 @@ a[aria-label="linkedin"]:hover {
 
 html {
   border-top: none;
+}
+
+#header-post #nav ul a {
+  color: goldenrod;
+}
+
+#header-post {
+  color: goldenrod;
+}
+
+#header-post #menu-icon {
+  color: goldenrod !important;
+}
+
+#header-post #toc nav>ul>li:before {
+  color: goldenrod;
+}
+
+article .content h2:before {
+  color: goldenrod;
+}
+
+#header-post #toc a:hover {
+  color: goldenrod;
+}
+
+#header-post #nav ul a:hover {
+  background-image: linear-gradient(transparent, transparent 5px, goldenrod 5px, goldenrod);
+}
+
+#header-post a.icon {
+  color: white;
+}
+
+#header-post a.icon:hover {
+  color: goldenrod;
 }
