@@ -20,7 +20,7 @@ Throughout this journey, each section builds on previous knowledge, showing how 
 
 ## MCP CLI and `mcp-servers`
 
-To help make MCP concepts more concrete, I created two open-source tools: the MCP CLI (`mcp-cli`) and several MCP server implementations (`mcp-servers`). These MIT-licensed resources offer a hands-on way to see the concepts we've discussed in action.
+To help make MCP concepts more concrete, I created two open-source tools: the MCP CLI ([`mcp-cli`](https://github.com/im2nguyen/mcp-cli)) and several MCP server implementations ([`mcp-servers`](https://github.com/im2nguyen/mcp-servers)). These MIT-licensed resources offer a hands-on way to see the concepts we've discussed in action.
 
 Using these tools is completely optional. The MCP concepts stand on their own, but seeing them in action helps bridge the gap between theory and implementation. They illustrate how clients connect to servers, how capabilities are discovered, and how the protocol's message format works in practice.
 
