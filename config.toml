@@ -12,7 +12,7 @@ weight = 1
 [params]
   colortheme = "dark"
   css = ["css/custom.css"]
-  description = "Hello! My name is Tu Nguyen, and I am a technical leader with a passion for technology and education. Hello! My name is Tu Nguyen, and I am a technical leader with a passion for technology and education. I currently help people [learn Consul](https://developer.hashicorp.com/consul). Previously, I built engaging, interactive tutorials for [Terraform](https://developer.hashicorp.com/terraform) and [Packer](https://developer.hashicorp.com/packer).  I also help advise [DreamsForSchools](https://www.dreamsforschools.org/) in designing computer science curriculums for elementary and middle school students across Southern California. \n\nPreviously, I've led development teams in startups, and built internal DevOps tools at Optum."
+  description = "Hello! My name is Tu Nguyen, and I am a technical leader with a passion for technology and education. Hello! My name is Tu Nguyen, and I am a technical leader with a passion for technology and education. \n\nI currently help people [learn HashiCorp products](https://developer.hashicorp.com). Previously, I built engaging, interactive tutorials for [Terraform](https://developer.hashicorp.com/terraform) and [Packer](https://developer.hashicorp.com/packer), and managed the Consul Education team.  I also help advise [DreamsForSchools](https://www.dreamsforschools.org/) in designing computer science curriculums for elementary and middle school students across Southern California. \n\nPreviously, I've led development teams in startups, and built internal DevOps tools at Optum."
   logo = "img/logo.png"
 
 [[params.social]]

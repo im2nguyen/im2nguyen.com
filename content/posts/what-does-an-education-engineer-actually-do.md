@@ -1,7 +1,7 @@
 ---
 title: "What Does an Education Engineer Actually Do"
 date: 2021-12-10T11:31:36-08:00
-draft: true
+draft: false
 ---
 
 Over Thanksgiving, my family had questions about what I do at work. In previous 
