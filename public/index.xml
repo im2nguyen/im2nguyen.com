@@ -1,27 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tu&#39;s Thoughts</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Tu&#39;s Thoughts</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>im2nguyen</copyright>
-    <lastBuildDate>Sun, 16 Mar 2025 11:31:36 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Exploring Model Context Protocol (MCP) from the ground up</title>
-      <link>http://localhost:1313/posts/exploring-mcp-from-ground-up/</link>
-      <pubDate>Sun, 16 Mar 2025 11:31:36 -0800</pubDate>
-      <guid>http://localhost:1313/posts/exploring-mcp-from-ground-up/</guid>
-      <description>&lt;p&gt;Large language models (LLMs) have changed how we interact with artificial intelligence, enabling natural conversations and complex reasoning. Yet these powerful models have a fundamental limitation: they&amp;rsquo;re constrained by the context available during each interaction. Without access to real-time information, private data sources, or the ability to take actions, LLMs remain sophisticated but isolated systems.&lt;/p&gt;&#xA;&lt;p&gt;Model context protocol (MCP) tackles this limitation by creating standardized interfaces between LLMs and external systems. Similar to how APIs transformed web development by connecting different services, MCPs create clear pathways for language models to access tools, retrieve information, and perform actions based on user requests. This standardization does more than just add convenience. By separating model providers from tool creators, MCPs foster an ecosystem where specialized capabilities can be developed independently yet work together seamlessly. This approach solves the fragmentation problem in AI tool integration, where each model provider currently uses unique and incompatible connection methods.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What Does an Education Engineer Actually Do</title>
-      <link>http://localhost:1313/posts/what-does-an-education-engineer-actually-do/</link>
-      <pubDate>Fri, 10 Dec 2021 11:31:36 -0800</pubDate>
-      <guid>http://localhost:1313/posts/what-does-an-education-engineer-actually-do/</guid>
-      <description>&lt;p&gt;Over Thanksgiving, my family had questions about what I do at work. In previous&#xA;years, they were satisfied with &amp;ldquo;software engineer&amp;rdquo; — I made websites and apps.&#xA;They weren’t sure what an education engineer actually does.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/education-engineer-comic.png&#34; alt=&#34;Do you code or teach? Yes. Comic&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;At HashiCorp, education engineers design scenarios that emulate problems DevOps&#xA;engineers may run into and guide them through a solution. As part of the&#xA;Terraform Education team, these scenarios may come in the form of common use&#xA;cases, like how to &lt;a href=&#34;https://learn.hashicorp.com/tutorials/terraform/eks&#34;&gt;spin up a Kubernetes cluster&lt;/a&gt;&#xA;in your favorite cloud, or highlighting new features practitioners may find&#xA;useful, like &lt;a href=&#34;https://learn.hashicorp.com/tutorials/terraform/private-registry-add?in=terraform/modules&#34;&gt;curating public providers and modules within Terraform Cloud&lt;/a&gt;.&#xA;Since education engineers need to generate real world examples and their&#xA;solutions, they’re expected to have real experience and technical knowledge. If&#xA;you have prior experiences in advocating for and implementing &lt;a href=&#34;https://learn.hashicorp.com/tutorials/terraform/blue-green-canary-tests-deployments&#34;&gt;blue-green deployments&lt;/a&gt;,&#xA;you’re intimately aware of both the benefits and hurdles.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tu's Thoughts</title><link>http://im2nguyen.com/</link><description>Recent content on Tu's Thoughts</description><generator>Hugo</generator><language>en-us</language><copyright>im2nguyen</copyright><lastBuildDate>Sun, 16 Mar 2025 11:31:36 -0800</lastBuildDate><atom:link href="http://im2nguyen.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Model Context Protocol (MCP) from the ground up</title><link>http://im2nguyen.com/posts/exploring-mcp-from-ground-up/</link><pubDate>Sun, 16 Mar 2025 11:31:36 -0800</pubDate><guid>http://im2nguyen.com/posts/exploring-mcp-from-ground-up/</guid><description>&lt;p>Large language models (LLMs) have changed how we interact with artificial intelligence, enabling natural conversations and complex reasoning. Yet these powerful models have a fundamental limitation: they&amp;rsquo;re constrained by the context available during each interaction. Without access to real-time information, private data sources, or the ability to take actions, LLMs remain sophisticated but isolated systems.&lt;/p>
+&lt;p>Model context protocol (MCP) tackles this limitation by creating standardized interfaces between LLMs and external systems. Similar to how APIs transformed web development by connecting different services, MCPs create clear pathways for language models to access tools, retrieve information, and perform actions based on user requests. This standardization does more than just add convenience. By separating model providers from tool creators, MCPs foster an ecosystem where specialized capabilities can be developed independently yet work together seamlessly. This approach solves the fragmentation problem in AI tool integration, where each model provider currently uses unique and incompatible connection methods.&lt;/p></description></item><item><title>What Does an Education Engineer Actually Do</title><link>http://im2nguyen.com/posts/what-does-an-education-engineer-actually-do/</link><pubDate>Fri, 10 Dec 2021 11:31:36 -0800</pubDate><guid>http://im2nguyen.com/posts/what-does-an-education-engineer-actually-do/</guid><description>&lt;p>Over Thanksgiving, my family had questions about what I do at work. In previous
+years, they were satisfied with &amp;ldquo;software engineer&amp;rdquo; — I made websites and apps.
+They weren’t sure what an education engineer actually does.&lt;/p>
+&lt;p>&lt;img src="http://im2nguyen.com/img/education-engineer-comic.png" alt="Do you code or teach? Yes. Comic">&lt;/p>
+&lt;p>At HashiCorp, education engineers design scenarios that emulate problems DevOps
+engineers may run into and guide them through a solution. As part of the
+Terraform Education team, these scenarios may come in the form of common use
+cases, like how to &lt;a href="https://learn.hashicorp.com/tutorials/terraform/eks">spin up a Kubernetes cluster&lt;/a>
+in your favorite cloud, or highlighting new features practitioners may find
+useful, like &lt;a href="https://learn.hashicorp.com/tutorials/terraform/private-registry-add?in=terraform/modules">curating public providers and modules within Terraform Cloud&lt;/a>.
+Since education engineers need to generate real world examples and their
+solutions, they’re expected to have real experience and technical knowledge. If
+you have prior experiences in advocating for and implementing &lt;a href="https://learn.hashicorp.com/tutorials/terraform/blue-green-canary-tests-deployments">blue-green deployments&lt;/a>,
+you’re intimately aware of both the benefits and hurdles.&lt;/p></description></item></channel></rss>
