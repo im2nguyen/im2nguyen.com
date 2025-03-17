@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = "Tu's Thoughts"
 theme = "cactus"
 copyright = "im2nguyen"
+publishDir = "docs"
 
 [[menu.main]]
 name = "Home"
